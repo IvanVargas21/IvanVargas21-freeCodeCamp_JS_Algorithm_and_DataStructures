@@ -1,5 +1,8 @@
 # Javascript Data Structures and Algorithms
 
+## Spreadsheet - Functional Programming
+![image](![image](https://github.com/user-attachments/assets/b9d65370-9495-46e9-ab6a-710c1c733953))
+
 ## To Do List - LocalStorage
 ![image](https://github.com/user-attachments/assets/b9d65370-9495-46e9-ab6a-710c1c733953)
 
