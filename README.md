@@ -1,7 +1,13 @@
-# freeCodeCamp_Data Structures and Algorithms
+# Javascript Data Structures and Algorithms
+
+## Spreadsheet - Functional Programming
+![image](![image](https://github.com/user-attachments/assets/b9d65370-9495-46e9-ab6a-710c1c733953))
 
 ## To Do List - LocalStorage
 ![image](https://github.com/user-attachments/assets/b9d65370-9495-46e9-ab6a-710c1c733953)
+
+## Statistics Calculator - Advance Array Methods
+![image](https://github.com/user-attachments/assets/aa62d5ce-e93a-4e53-8d4b-e1a81f33abe7)
 
 ## Role Playing Game
 ![image](https://github.com/user-attachments/assets/4b08be67-909d-4bd4-bce8-d9be6d263fec)
