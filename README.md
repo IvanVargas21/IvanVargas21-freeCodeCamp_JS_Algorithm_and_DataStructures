@@ -9,6 +9,9 @@
 ## Statistics Calculator - Advance Array Methods
 ![image](https://github.com/user-attachments/assets/aa62d5ce-e93a-4e53-8d4b-e1a81f33abe7)
 
+## Cash Register
+![image](https://github.com/user-attachments/assets/a86cb6e5-a3b8-4259-bdf4-44a5f0ad37a8)
+
 US Telephone Number Validator
 ![image](https://github.com/user-attachments/assets/0623d234-d00e-4723-881f-0aaf24068270)
 
