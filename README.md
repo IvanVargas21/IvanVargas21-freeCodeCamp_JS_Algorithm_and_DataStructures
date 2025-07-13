@@ -9,6 +9,9 @@
 ## Statistics Calculator - Advance Array Methods
 ![image](https://github.com/user-attachments/assets/aa62d5ce-e93a-4e53-8d4b-e1a81f33abe7)
 
+US Telephone Number Validator
+![image](https://github.com/user-attachments/assets/0623d234-d00e-4723-881f-0aaf24068270)
+
 ## Role Playing Game
 ![image](https://github.com/user-attachments/assets/4b08be67-909d-4bd4-bce8-d9be6d263fec)
 
