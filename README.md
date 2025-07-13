@@ -39,6 +39,10 @@ US Telephone Number Validator
 ## Building Football Team Cards - Methods & Map
 ![image](https://github.com/user-attachments/assets/e31a264d-94cf-434b-9a1f-042d0661809b)
 
+## RPG Creature Search
+![image](https://github.com/user-attachments/assets/cd24b538-d3af-49f2-bffc-5b0435a6921b)
+
+
 
 
 
